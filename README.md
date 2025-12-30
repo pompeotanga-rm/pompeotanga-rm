@@ -1,5 +1,9 @@
 # Pompeo Tanga
 
+<p align="center">
+  <img src="IMG_20220905_135956_050.jpg" width="180" alt="Pompeo Tanga">
+</p>
+
 Ingegnere ambientale con competenze avanzate in **sistemi informativi**, **integrazione dati**, **automazione** e **sicurezza informatica**.  
 Nel 2025 ho operato come figura tecnica trasversale in ambiente aziendale, occupandomi di progettazione, implementazione e verifica di soluzioni **affidabili, auditabili e orientate alla produzione**.
 
