@@ -1,6 +1,6 @@
 # Pompeo Tanga
 
-<p align="center">
+<p align="left">
   <img src="IMG_20220905_135956_050.jpg" width="180" alt="Pompeo Tanga">
 </p>
 
