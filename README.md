@@ -236,6 +236,12 @@ Approccio orientato a:
 - HTML
 - JavaScript
 
+**Sistemi & Virtualizzazione**
+- Linux (server)
+- systemd
+- Proxmox
+- Docker
+
 ---
 
 ## Approccio al lavoro
