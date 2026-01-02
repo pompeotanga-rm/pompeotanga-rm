@@ -5,6 +5,6 @@
   <img src="/assets/neofetch.svg" width="650">
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,postgres,python,docker,vue,git,bash,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,postgres,python,docker,vue,react,git,bash,html,css,md&theme=dark" />
 </p>
 
