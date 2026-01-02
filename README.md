@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="profile.svg" alt="Arch Linux Neofetch Profile" width="600">
+  <img src="/assets/neofetch.svg" alt="Arch Linux Neofetch Profile" width="600">
 </p>
