@@ -7,7 +7,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,redhat,postgres,python,docker,vue,react,git,bash,html,css,md&theme=dark" />
 </p>
-
+<details>
+  <summary><b>[ VIEW SYSTEM ART ]</b></summary>
+  <pre>
 ddddddddddddxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 ddddddxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOkOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 dddxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOkOOOOOOOOOOOOOOOOOkkkOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkk
@@ -88,3 +90,6 @@ xdddollc:;,,,,,'',''locccllloxxkkkkkkkxxddoooollcc:;,,..'..             .....,,'
 ...',','....;0000XOOOOOOOOOkxdolcc::;;;;:::;,.   .................     ....',...........................................
 ......'.....'kOOXXKOOOOOOOkkkxdollcccccc::;'...........''..........    .................................................
 ....  .......cOKXXKOO0OOOOOkxxxdollllllcc;...........'''''''......'..   ................................................
+
+  </pre>
+</details>
