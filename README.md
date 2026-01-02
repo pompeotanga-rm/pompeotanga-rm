@@ -1,28 +1,30 @@
 <table>
   <tr>
     <td width="220" valign="center">
-      <img src="assets/profile.jpg" width="200" style="border-radius: 999px;" />
+      <img src="assets/profile.jpg" width="200" style="border-radius:999px;" />
     </td>
     <td valign="top">
 
-<pre style="font-family: monospace; font-size: 14px; line-height: 1.4;">
-<span style="color:#1793d1;">pompeo</span>@<span style="color:#1793d1;">github</span>
-<span style="color:#1793d1;">─────────────</span>
-<span style="color:#1793d1;">OS:</span>        Linux
-<span style="color:#1793d1;">Host:</span>      Proxmox VE
-<span style="color:#1793d1;">User:</span>      pompeo
-<span style="color:#1793d1;">Role:</span>      Environmental Engineer
-<span style="color:#1793d1;">Profile:</span>   Data · Automation · Security
+<div style="font-family: monospace; font-size:14px; line-height:1.45;">
 
-<span style="color:#1793d1;">Kernel:</span>    PostgreSQL
-<span style="color:#1793d1;">Shell:</span>     PL/pgSQL · PL/Python
-<span style="color:#1793d1;">Data:</span>      ETL · Integration · Constraints
-<span style="color:#1793d1;">Security:</span>  SIEM · Wazuh · AI-assisted analysis
-<span style="color:#1793d1;">Automation:</span>Workflows · Containers
-<span style="color:#1793d1;">Web:</span>       REST APIs · Vue
+<span style="color:#1793d1;">pompeo</span>@<span style="color:#1793d1;">github</span><br>
+<span style="color:#1793d1;">─────────────</span><br>
+<span style="color:#1793d1;">OS:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux<br>
+<span style="color:#1793d1;">Host:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proxmox VE<br>
+<span style="color:#1793d1;">User:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pompeo<br>
+<span style="color:#1793d1;">Role:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Environmental Engineer<br>
+<span style="color:#1793d1;">Profile:</span>&nbsp;&nbsp;&nbsp;Data · Automation · Security<br>
+<br>
+<span style="color:#1793d1;">Kernel:</span>&nbsp;&nbsp;&nbsp;&nbsp;PostgreSQL<br>
+<span style="color:#1793d1;">Shell:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PL/pgSQL · PL/Python<br>
+<span style="color:#1793d1;">Data:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL · Integration · Constraints<br>
+<span style="color:#1793d1;">Security:</span>&nbsp;&nbsp;SIEM · Wazuh · AI-assisted analysis<br>
+<span style="color:#1793d1;">Automation:</span>Workflows · Containers<br>
+<span style="color:#1793d1;">Web:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REST APIs · Vue<br>
+<br>
+<span style="color:#1793d1;">Contact:</span>&nbsp;&nbsp;&nbsp;pompeo.tanga@romamaceri.it
 
-<span style="color:#1793d1;">Contact:</span>   pompeo.tanga@romamaceri.it
-</pre>
+</div>
 
     </td>
   </tr>
