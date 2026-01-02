@@ -9,7 +9,7 @@
 </p>
 <details>
   <summary><b>[ VIEW SYSTEM ART ]</b></summary>
-<pre style="font-size: 4px; line-height: 4px; letter-spacing: 0px; font-family: monospace;">
+<pre style="font-size: 2px; line-height: 2px; letter-spacing: 0px; font-family: monospace;">
 ddddddddddddxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 ddddddxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOkOOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 dddxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOkOOOOOOOOOOOOOOOOOkkkOOOOOOOOOOkkkkkkkkkkkkkkkkkkkkk
